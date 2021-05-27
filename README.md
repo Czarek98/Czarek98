@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Sports-meeting and KCALculator
-- 🌱 I’m currently learning Blazor, Django and want to 
+- 🌱 I’m currently learning Blazor, Django. I also plan to start learning Angular or React(hard to choose :grimacing: )
 - :school: Studying at Wyższa Szkoła Bankowa w Gdańsku
 - :office: Working at Sii as Test and Analysis Engineer (C# validation)
 - 📫 How to reach me: cezary.bohdanowicz@gmail.com
